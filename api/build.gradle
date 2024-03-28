@@ -15,7 +15,7 @@ android {
     }
     buildTypes {
         debug {
-            defaultConfig.minSdkVersion 24
+            defaultConfig.minSdkVersion 22
         }
         release {
             minifyEnabled false
